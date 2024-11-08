@@ -1,5 +1,5 @@
 # pfinterns-task3
-Customer Lifetime Value Analysis
+# Customer Lifetime Value Analysis
 In this project, you’ll perform a Customer Lifetime Value (CLV) analysis using real-world
 transaction data to help businesses evaluate the long-term value of their customers. By
 importing, cleaning, and modeling data using Power Query, you will calculate key metrics
